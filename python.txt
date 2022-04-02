@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 updating....
+=======
+this is updated by naveen
+>>>>>>> 9f1ba37e91fc120bc2617031d38090cc9c67ef82
 this file is updating in dev branch...
 this file is python script
