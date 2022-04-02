@@ -1,1 +1,2 @@
 this is normal text file
+updating this file
