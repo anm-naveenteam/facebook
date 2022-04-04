@@ -3,3 +3,4 @@ hello
 update it again
 this file contains the deployment script...
 updating git pull 
+git cmd updating
